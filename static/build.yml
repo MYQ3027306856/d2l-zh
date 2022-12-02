@@ -9,7 +9,7 @@ dependencies:
     - -f https://download.pytorch.org/whl/torch_stable.html
     - torchvision==0.13.0+cu102
     - -f https://download.pytorch.org/whl/torch_stable.html
-    - tensorflow==2.11.0
+    - tensorflow==2.10.1
     - tensorflow-probability==0.18.0
     - paddlepaddle-gpu==2.3.2.post112
     - -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
